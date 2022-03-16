@@ -48,6 +48,17 @@ namespace AdminAPP {
         
         private Order_ViewDataTable tableOrder_View;
         
+        
+        
+        
+        
+        
+        ХУУУУУЙЙЙ
+        
+        
+        
+        
+        
         private global::System.Data.DataRelation relationFK_Auto_Model;
         
         private global::System.Data.DataRelation relationFK_Model_BrandAuto;
